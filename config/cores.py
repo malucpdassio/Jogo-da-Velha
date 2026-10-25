@@ -1,0 +1,11 @@
+CO0 = "#FFFFFF"  # branca / white
+CO1 = "#333333"  # preta pesado / dark black
+CO2 = "#fcc058"  # laranja / orange
+CO3 = "#38576b"  # valor / value
+CO4 = "#3297a8"   # azul / blue
+CO5 = "#fff873"   # amarela / yellow
+CO6 = "#fcc058"  # laranja / orange
+CO7 = "#e85151"   # vermelha / red
+CO8 = CO4   # + verde
+CO10 ="#fcfbf7"
+FUNDO = "#3b3b3b" # preta / black
